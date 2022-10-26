@@ -48,5 +48,5 @@ activity = {
 
 while True:
     RPC.update(activity)
-    time.sleep(20) #You can only make changes to the RPC every 15 seconds#
+    time.sleep(20) #You can only make changes to the RPC every 20 seconds#
 ```
