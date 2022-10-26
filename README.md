@@ -13,8 +13,10 @@ This library is an easy to use client for Discord Rich Presence.
 
 ### Installation
 
+No longer available using PIP.
+
 ```sh
-pip install ShivBox
+gh repo clone SHIV5T3R/Custom-Discord-RPC
 ```
 
 
